@@ -1,2 +1,2 @@
-# PLUCKING-MANGOES-BETA
-PLUCKING MANGOES BETA™
+# p5.play-boilerplate
+Boiler plate for p5.play
